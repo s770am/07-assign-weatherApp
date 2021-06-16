@@ -1,0 +1,27 @@
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
+h6 {
+    font-size: large;
+    font-family: fantasy;
+
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+
+    border: 3px solid black;
+    background-color: whitesmoke;
+
+}
+.img {
+    max-width: 10em;
+
+    padding: 1vw;
+    padding-bottom: 0vw;
+}
